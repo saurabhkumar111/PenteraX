@@ -20,7 +20,7 @@
 
 ## 📂 Folder Structure
 
-```bash
+
 /docs          → Lab setup notes, architecture  
 /website       → EdTech website source code (padholikho.com)  
 /attacks       → Step-by-step attack walkthroughs  
