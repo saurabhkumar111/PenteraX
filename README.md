@@ -25,4 +25,16 @@
 /website       → EdTech website source code (padholikho.com)  
 /attacks       → Step-by-step attack walkthroughs  
 /configs       → Apache, MySQL, AD, and hosts configs  
-/screenshots   → Proof of attacks and setups  
+/screenshots   → Proof of attacks and setups
+
+## 📦 Tools Used
+
+VirtualBox
+
+Kali Linux
+
+Apache + MySQL
+
+Python / PHP (for web)
+
+Metasploit, Burp Suite, Hydra
