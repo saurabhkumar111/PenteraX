@@ -29,12 +29,19 @@
 
 ## 📦 Tools Used
 
-VirtualBox
 
-Kali Linux
+- VirtualBox
+- Kali Linux
+- Ubuntu Server 22.04
+- Apache2
+- Windows 10
+- NAT Network: `Hack_laB` (192.168.1.0/24)
 
-Apache + MySQL
 
-Python / PHP (for web)
+## 🌐 Network Overview
 
-Metasploit, Burp Suite, Hydra
+| VM Role        | OS               | IP Address       | Description                   |
+|----------------|------------------|------------------|-------------------------------|
+| Attacker       | Kali Linux       | 192.168.1.x       | Launches attacks              |
+| Web Server     | Ubuntu Server    | 192.168.1.7       | Hosts `padholikho.com` website |
+| Client/User    | Windows 10       | 192.168.1.x       | Simulates end-user behavior   |
