@@ -43,9 +43,15 @@ This lab is hosted on VirtualBox and includes:
 - Files located at: `/var/www/html/` on Ubuntu server
 
 ---
+📊 Directory Overview
 
-## 📌 How to Use
+/var/www/html/
+├── index.html                 # Main homepage of padholikho.com
+├── logo.png                   # Brand logo
+├── login.html                 # Login form with CAPTCHA
+├── users.txt                  # File storing valid username-password pairs
+├── logins.txt                 # Login attempt logs with timestamps
+├── captcha.js                 # Simple CAPTCHA implementation
+└── style.css                  # Basic styling
 
-1. Clone this repo on attacker machine (Kali):
-   ```bash
-   git clone https://github.com/saurabhkumar111/PenteraX.git
+
