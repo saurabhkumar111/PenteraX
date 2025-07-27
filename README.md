@@ -46,12 +46,11 @@ This lab is hosted on VirtualBox and includes:
 📊 Directory Overview
 
 /var/www/html/
-├── index.html                 # Main homepage of padholikho.com
-├── logo.png                   # Brand logo
-├── login.html                 # Login form with CAPTCHA
-├── users.txt                  # File storing valid username-password pairs
-├── logins.txt                 # Login attempt logs with timestamps
-├── captcha.js                 # Simple CAPTCHA implementation
-└── style.css                  # Basic styling
-
+├── index.html      # Main homepage of padholikho.com
+├── logo.png        # Brand logo
+├── login.html      # Login form with CAPTCHA
+├── users.txt       # Stores valid username-password pairs
+├── logins.txt      # Login attempt logs with timestamps
+├── captcha.js      # Simple CAPTCHA implementation
+└── style.css       # Basic styling
 
